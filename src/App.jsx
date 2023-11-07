@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <h1>Testting of the email send</h1>
     </>
   )
 }
